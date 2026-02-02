@@ -61,3 +61,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+
+## 📫 Contact
+💼 **LinkedIn:** https://linkedin.com/in/tu-perfil  
+📧 **Email:** hanser.pimentel@gmail.com
