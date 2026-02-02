@@ -63,5 +63,5 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📫 Contact
-💼 **LinkedIn:** https://linkedin.com/in/tu-perfil  
+💼 **LinkedIn:**https://www.linkedin.com/in/hanser-pimentel-9129862a5  
 📧 **Email:** hanser.pimentel@gmail.com
